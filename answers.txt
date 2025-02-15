@@ -11,3 +11,7 @@ Answer: Data science can be applied to quantitative finance by gathering histori
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two branches by creating a new merge commit, and preserves the full commit history. Rebasing rewrites commit history by applying commits from one branch on top of another, creating a clean linear history without a merge commit.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning how to apply data science techniques in this class and use it for my personal interest in finance.
