@@ -1,3 +1,9 @@
+
 Q1: Why might we consider using Git?
 
 Answer: Git is a helpful resource for tracking changes and uploading code, so it is useful for collaboration and tracking changes, which we will do in this class.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to quantitative finance by gathering historical stock price data and using ML techniques to predict future stock prices.
+
